@@ -37,7 +37,6 @@ Deploying & Evaluating the Model
 Clone the repository
 
 git clone https://github.com/HungerMadra/AI-LEARN
-cd llm-from-scratch
 
 Follow along with the notebooks/ directory for Jupyter notebooks containing step-by-step implementations.
 
